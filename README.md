@@ -1,5 +1,5 @@
 # hello-world
-testing the boredom of the programmer Initialize this repository with a bang.
+hyping the boredom of the programmer Initialize this repository with a bang.
 and now writing some text to make this file different
 and to tell the world something about me and myself - and develop good discipline
 added commit messages, a good practice
